@@ -3,6 +3,7 @@
 # Date:5# Objective: exercicios3\capitulo 10\exercicio-10-07.py
 ##############################################################################
 
+# Exrcise 07
 class Cliente:
     def __init__(self, nome, telefone):
         self.nome = nome
