@@ -3,6 +3,7 @@
 # Date:5# Objective: exercicios3\capitulo 10\exercicio-10-06.py
 ##############################################################################
 
+# Excercise 6
 class Conta:
     def __init__(self, clientes, número, saldo=0):
         self.saldo = 0
